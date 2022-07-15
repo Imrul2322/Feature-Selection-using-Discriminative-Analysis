@@ -1,6 +1,8 @@
-# Feature-Selection-using-Discriminative-Analysis
+# Feature Selection using Discriminative Analysis
 
 Feature selection is a dimensionality reduction technique that can choose small set of features, eliminating unnecessary ones, for better learning performance. Researchers from different machine learning (ML) application areas, published various feature selection algorithms and their effectiveness in real-world datasets. In this paper, we utilized the discriminative analysis method for feature selection and tested its efficacy in unsupervised learning environment.
+
+## Table of contents
 
 ## Link of the dataset
 1. https://drive.google.com/file/d/1zM8iN5SC-n37nVy7Fcb2YpHfd6eJQkWn/view?usp=sharing
