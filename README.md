@@ -12,7 +12,10 @@ Feature selection is a dimensionality reduction technique that can choose small 
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Key-Findings">Key Findings</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Problem-Statement">Problem Statement</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Dataset">Dataset</a>
+* <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Methodologies">Methodologies</a>
+* <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Resources">Resources</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Summary-of-Results">Summary of Results</a>
+* <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Contributions">Contributions</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Publications">Publications</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Repo-structure">Repo Structure</a>
 ## Key Findings
@@ -27,6 +30,17 @@ Dimensionality reduction methods transform data in lower dimension so that most 
 
 1. Cifar-10 object image dataset.
 2. MNIST handwritten digit dataset. 
+
+## Methodologies
+
+1. Create feature importance set. 
+2. Create results using top 1% features obtained from test algorithms (e.g. DNA, cPCA).
+3. Comparision of results
+
+## Resources
+
+1. Matlab (algorithm development).
+2. Python (libraries: Matplotlib, seaborn, pandas, sklearn | produce results).
 
 ## Summary of Results
 
@@ -44,10 +58,15 @@ Figure 3: Classification Performance curve for MNIST dataset
 
 For detail explanation of results, see <a href="https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/FSDA_results.ipynb">here</a>.
 
+## Contributions
+
+1. Algorithm development (50%).
+2. Results generation (90%).
 
 ## Publications
 
 1. https://drive.google.com/file/d/1H4f0pV0XagwUZRvgVyg052k7WgB0imcP/view?usp=sharing
+
 
 ## Repo structure
 
