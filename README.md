@@ -37,6 +37,8 @@ Figure 2: Classification of MNIST dataset labels using 25 features (accuracy 97.
 
 Figure 3: Classification Performance curve for MNIST dataset
 
+For detail explanation of results, see <a href="https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/FSDA_results.ipynb">here</a>.
+
 
 
 ## Publications
