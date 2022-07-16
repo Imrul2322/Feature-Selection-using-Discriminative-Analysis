@@ -8,11 +8,16 @@ Using proposed discriminative analysis algorithm, DNA, we can rank features in a
 
 ## Problem Statement
 
-
+Dimensionality reduction methods transform data in lower dimension so that most of the variances in the data are preserved in first few components. Principal Component Analysis (PCA) is a great method to find lower dimensional structure which can be used to find important features in a dataset but it is possible in one dataset only. Discriminative analysis is capable of finding target data (first dataset) variances with respect to background data (2nd dataset), extracting important features in between two datasets. Proposed algorithm, DNA performs better than other discriminative analysis methods (e.g. Contrastive PCA) to perform feature selection in multiple datasets. 
 
 ## Dataset
 
 1. Cifar-10 object image dataset.
+
+## Summary of Results
+
+![alt text](https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/blob/main/assets/symptoms.png)
+
 
 
 ## Publications
