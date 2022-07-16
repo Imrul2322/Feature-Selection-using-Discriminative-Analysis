@@ -10,7 +10,7 @@ Feature selection is a dimensionality reduction technique that can choose small 
 ## Table of Contents
 
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Key-Findings">Key Findings</a>
-* * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Problem-Statement">Problem Statement</a>
+* <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Problem-Statement">Problem Statement</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Dataset">Dataset</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Summary of Results">Summary-of-Results</a>
 * <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#Publications">Publications</a>
