@@ -26,6 +26,7 @@ Dimensionality reduction methods transform data in lower dimension so that most 
 ## Dataset
 
 1. Cifar-10 object image dataset.
+2. MNIST handwritten digit dataset. 
 
 ## Summary of Results
 
