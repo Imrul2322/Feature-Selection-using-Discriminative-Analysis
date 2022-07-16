@@ -2,6 +2,15 @@
 
 Feature selection is a dimensionality reduction technique that can choose small set of features, eliminating unnecessary ones, for better learning performance. In this paper, we utilized our proposed discriminative analysis method for feature selection and tested its efficacy in supervised and unsupervised learning environment.
 
+## Authors
+
+1. Md Imrul Kaish (UTRGV)
+2. Dr. Rahman (UTRGV)
+
+## Table of Contents
+
+* <a href="https://github.com/Imrul2322/feature-selection-using-discriminative-analysis#key-findings">Key Findings</a>
+
 ## Key Findings
 
 Using proposed discriminative analysis algorithm, DNA, we can rank features in a dataset and perform feature selection. Using only 1% features, we obtained similar prediction accuracy with shorter convergence time in supervised and unsupervised learning settings. 
