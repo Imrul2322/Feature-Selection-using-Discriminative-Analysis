@@ -16,7 +16,17 @@ Dimensionality reduction methods transform data in lower dimension so that most 
 
 ## Summary of Results
 
-![alt text](https://github.com/Imrul2322/NonNegative-Discriminative-Data-Analytics/blob/main/assets/symptoms.png)
+![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/cifar%2010%202%20class%2025.png)
+
+Figure 1: Classification of CIFAR10 dataset labels using 25 features (accuracy 83.64%) instead of 3072 features (accuracy 85.10%).
+
+![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/MNIST%20data%202%20class%2025.png)
+
+Figure 2: Classification of MNIST dataset labels using 25 features (accuracy 97.72%) instead of 784 features (accuracy 99.91%).
+
+![alt text](https://github.com/Imrul2322/Feature-Selection-using-Discriminative-Analysis/blob/main/assets/classification%20MNIST.png)
+
+Figure 3: Classification Performance curve for MNIST dataset
 
 
 
